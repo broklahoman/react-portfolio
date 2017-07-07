@@ -52,9 +52,9 @@ export default () => {
       <div id="connect">
         <h2>Connect with Me</h2>
 
-      <a href="#"><img src="assets/images/github-128.png" className="social" alt="GitHub" /></a>
-	        <a href="#"><img src="assets/images/linkedin-128.png" className="social" alt="LinkedIn" /></a>
-	        <a href="#"><img src="assets/images/stackoverflow-128.png" className="social" alt="Stack Overflow" /></a>
+      <a href="https://github.com/broklahoman"><img src="assets/images/github-128.png" className="social" alt="GitHub" /></a>
+	        <a href="https://www.linkedin.com/in/jonathan-harris-3b431535/"><img src="assets/images/linkedin-128.png" className="social" alt="LinkedIn" /></a>
+	        <a href="https://stackoverflow.com/users/8261209/jonathan-harris"><img src="assets/images/stackoverflow-128.png" className="social" alt="Stack Overflow" /></a>
       </div>
     </section>
   </div>
